@@ -4,10 +4,10 @@
 
 ## Desenvolvedora em desenvolvimento!
 
-- 🌱 Estudando javascript: front to back 🤣
-- 📕 Lendo sempre sobre conceitos da web
-- 👯 Ansiosa para trabalhar em equipe
-- 🥅 Objetivos de 2022 Avançar nos estudos
+- 📕 Cursando Análise e Desenvolvimento de Sistemas;
+- 🌱 Estudando javascript: front to back 🤣;
+- 👯 Ansiosa para trabalhar em algum projeto em equipe;
+- 🥅 Objetivos de 2022: Focar no javascript como linguagem full stack;
 - 😻 Amo animais
 
 
