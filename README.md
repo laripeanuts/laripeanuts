@@ -14,7 +14,7 @@
 ### Programação:
 
 
-[<img align="left" alt="TypeScript" width="26px" src="./img/typescript-original.svg" style="padding-right:10px;" />](https://www.typescriptlang.org/)
+<!-- [<img align="left" alt="TypeScript" width="26px" src="./img/typescript-original.svg" style="padding-right:10px;" />](https://www.typescriptlang.org/) -->
 [<img align="left" alt="Javascript" width="26px" src="./img/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img align="left" alt="HTML5" width="26px" src="./img/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/html)
 [<img align="left" alt="CSS3" width="26px" src="./img/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -54,13 +54,14 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
 </p>
 
-<!-- ### Stats
+<!-- ### Stats -->
 
-
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=synthwaves)](https://githubtrends.io)  -->
+<!-- 
 <div align="center">
   <a href="https://github.com/laripeanuts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laripeanuts&exclude_repo=aprendendo-alura-jogo-ponte,laripeanuts.github.io&layout=compact&langs_count=7&theme=dracula&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laripeanuts&exclude_repo=aprendendo-alura-jogo-ponte,laripeanuts.github.io&layout=compact&langs_count=7&theme=dracula&custom_title=Linguagens"/>
 </div> -->
 
 
