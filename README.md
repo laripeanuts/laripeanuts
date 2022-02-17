@@ -19,7 +19,7 @@
 [<img align="left" alt="HTML5" width="26px" src="./img/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/html)
 [<img align="left" alt="CSS3" width="26px" src="./img/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img align="left" alt="React" width="26px" src="./img/react-original.svg" style="padding-right:10px;" />](https://pt-br.reactjs.org/)
-[<img align="left" alt="Node.js" width="26px" src="./img/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org)
+<!--[<img align="left" alt="Node.js" width="26px" src="./img/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org)-->
 [<img align="left" alt="Csharp" width="26px" src="./img/csharp-original.svg" style="padding-right:10px;" />](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [<img align="left" alt="Java" width="26px" src="./img/java-original.svg" style="padding-right:10px;" />](https://www.java.com/pt-BR/)
 [<img align="left" alt="MySQL" width="26px" src="./img/mysql-original.svg" style="padding-right:10px;" />](http://https://www.mysql.com/)
