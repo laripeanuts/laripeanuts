@@ -5,9 +5,9 @@
 ## Desenvolvedora em desenvolvimento!
 
 - 📕 Cursando Análise e Desenvolvimento de Sistemas;
-- 🌱 Estudando javascript: front to back 🤣;
+- 🌱 Estudando javascript e typescript: front to back 🤣;
 - 👯 Ansiosa para trabalhar em algum projeto em equipe;
-- 🥅 Objetivos de 2022: Focar no javascript como linguagem full stack;
+- 🥅 Objetivos de 2022: Focar no js & ts como linguagem full stack;
 - 😻 Amo animais
 
 
