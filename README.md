@@ -14,8 +14,8 @@
 ### Programação:
 
 
-<!-- [<img align="left" alt="TypeScript" width="26px" src="./img/typescript-original.svg" style="padding-right:10px;" />](https://www.typescriptlang.org/) -->
 [<img align="left" alt="Javascript" width="26px" src="./img/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img align="left" alt="TypeScript" width="26px" src="./img/typescript-original.svg" style="padding-right:10px;" />](https://www.typescriptlang.org/)
 [<img align="left" alt="HTML5" width="26px" src="./img/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/html)
 [<img align="left" alt="CSS3" width="26px" src="./img/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img align="left" alt="React" width="26px" src="./img/react-original.svg" style="padding-right:10px;" />](https://pt-br.reactjs.org/)
