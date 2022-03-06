@@ -1,8 +1,8 @@
 # Larissa Rabelo 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/laripeanuts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laripeanuts)
+ <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/laripeanuts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laripeanuts) -->
 
-## Desenvolvedora em desenvolvimento!
+### Desenvolvedora em desenvolvimento!
 
 - 📕 Cursando Análise e Desenvolvimento de Sistemas;
 - 🌱 Estudando javascript e typescript: front to back 🤣;
@@ -50,7 +50,7 @@
  <!-- <a target="_blank" href="https://www.instagram.com/larissarabelolf/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
  
-  <a target="_blank" href="http://www.twitter.com/laripeanuts" alt="Gmail">
+  <a target="_blank" href="https://twitter.com/larisssadev" alt="Gmail">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
 </p>
 
