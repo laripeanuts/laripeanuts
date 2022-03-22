@@ -20,8 +20,8 @@
 [<img align="left" alt="CSS3" width="26px" src="./img/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img align="left" alt="React" width="26px" src="./img/react-original.svg" style="padding-right:10px;" />](https://pt-br.reactjs.org/)
 <!--[<img align="left" alt="Node.js" width="26px" src="./img/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org) -->
-<!--[<img align="left" alt="Csharp" width="26px" src="./img/csharp-original.svg" style="padding-right:10px;" />](https://docs.microsoft.com/pt-br/dotnet/csharp/) -->
-[<img align="left" alt="Java" width="26px" src="./img/java-original.svg" style="padding-right:10px;" />](https://www.java.com/pt-BR/)
+[<img align="left" alt="Csharp" width="26px" src="./img/csharp-original.svg" style="padding-right:10px;" />](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+<!--[<img align="left" alt="Java" width="26px" src="./img/java-original.svg" style="padding-right:10px;" />](https://www.java.com/pt-BR/) -->
 [<img align="left" alt="MySQL" width="26px" src="./img/mysql-original.svg" style="padding-right:10px;" />](http://https://www.mysql.com/)
 <br>
 
@@ -36,6 +36,10 @@
 [<img align="left" alt="Illustrator" width="26px" src="./img/illustrator-plain.svg" style="padding-right:10px;"/>](https://www.adobe.com/illustrator)
 [<img align="left" alt="Unreal Engine" width="26px" src="./img/unrealengine-light.png" style="padding-right:10px;"/>](https://www.unrealengine.com/)
 <br>
+
+### Status:
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
 
 ### Redes:
 
@@ -54,14 +58,9 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
 </p>
 
-<!-- ### Stats -->
-
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=synthwaves)](https://githubtrends.io)  -->
-<!-- 
-<div align="center">
+   <!-- <div align="center">
   <a href="https://github.com/laripeanuts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laripeanuts&exclude_repo=aprendendo-alura-jogo-ponte,laripeanuts.github.io&layout=compact&langs_count=7&theme=dracula&custom_title=Linguagens"/>
 </div> -->
-
 
