@@ -4,7 +4,7 @@
 
 ### Desenvolvedora em desenvolvimento
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando 2 semestre de Análise e Desenvolvimento de Sistemas
 - 📚 Linguagem: javascript e typescript: front to back
 - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
 - ❤️ Cinema, leitura, viagens, animais
@@ -17,7 +17,7 @@
 [<img align="left" alt="HTML5" width="26px" src="./img/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/html)
 [<img align="left" alt="CSS3" width="26px" src="./img/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img align="left" alt="React" width="26px" src="./img/react-original.svg" style="padding-right:10px;" />](https://pt-br.reactjs.org/)
-<!--[<img align="left" alt="Node.js" width="26px" src="./img/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org) -->
+[<img align="left" alt="Node.js" width="26px" src="./img/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org)
 [<img align="left" alt="Csharp" width="26px" src="./img/csharp-original.svg" style="padding-right:10px;" />](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [<img align="left" alt="MySQL" width="26px" src="./img/mysql-original.svg" style="padding-right:10px;" />](http://https://www.mysql.com/)
 <br>
@@ -36,11 +36,12 @@
 
 ### Status
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
-<div align="left">
-  <a href="https://github.com/laripeanuts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+<a href="https://github.com/laripeanuts">
+   <img height="200em" src="https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&theme=dark"/>
+</a>
+</p>
 
 ### Social
 
