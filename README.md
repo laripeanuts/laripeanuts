@@ -4,7 +4,7 @@
 
 ### Desenvolvedora em desenvolvimento
 
-- 🎓 Cursando 2 semestre de Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando 2º semestre de Análise e Desenvolvimento de Sistemas
 - 📚 Linguagem: javascript e typescript: front to back
 - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
 - ❤️ Cinema, leitura, viagens, animais
