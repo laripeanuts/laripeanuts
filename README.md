@@ -8,7 +8,7 @@
 - 📚 Linguagem: javascript e typescript: front to back
 - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
 - ❤️ Cinema, leitura, viagens, animais
-- 👉 [Currículo](https://laripeanuts.github.io/raroacademy-curriculo/) 13/03/2022
+<!-- - 👉 [Currículo](https://laripeanuts.github.io/raroacademy-curriculo/) 13/03/2022 -->
 
 ### Tech Stack
 
@@ -50,6 +50,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a target="_blank" href="mailto:larissarabelolf@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  <a target="_blank" href="https://twitter.com/laripenuts" alt="Gmail">
+  <a target="_blank" href="https://twitter.com/laripenuts" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
 </p>
