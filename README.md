@@ -1,6 +1,7 @@
-# Larissa Rabelo 👋
+<!-- # Larissa Rabelo 👋 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
- [![Twitter Follow](https://img.shields.io/twitter/follow/laripeanuts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laripeanuts)
+[![Twitter Follow](https://img.shields.io/twitter/follow/laripeanuts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laripeanuts)
 
 ### Desenvolvedora em desenvolvimento
 
