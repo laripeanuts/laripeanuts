@@ -62,8 +62,8 @@
 
 <p align="center">
 <a href="https://github.com/laripeanuts">
-   <img height="200em" src="https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&theme=dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=laripeanuts&show_icons=true&theme=dark"/>
 </a>
 </p>
 
