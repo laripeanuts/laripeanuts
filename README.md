@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/laripeanuts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laripeanuts)
 
-### Desenvolvedora - [Porfolio](https://larissarabelo.com)
+### Desenvolvedora - [Porfolio](https://www.larissarabelo.com)
 
 - 🎓 Cursando 3º semestre de Análise e Desenvolvimento de Sistemas
 - 📚 Linguagem: javascript e typescript: front to back
