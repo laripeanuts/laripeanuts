@@ -58,12 +58,10 @@
 
 ### Status
 
-<p align="left">
-  <a href="https://github.com/laripeanuts">
-    <img height="300em" src="https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&theme=dark"/>
-    <!-- <img height="200em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=laripeanuts&show_icons=true&theme=dark"/> -->
-  </a>
-</p>
+<div align="center" >  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Larissa Rabelo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laripeanuts&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=6&hide=javascript" />
+</div>
 
 ### Contato
 
