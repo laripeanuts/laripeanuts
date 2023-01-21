@@ -1,15 +1,13 @@
 <!-- # Larissa Rabelo 👋 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/laripeanuts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laripeanuts)
-
 ### Desenvolvedora - [Portfolio](https://www.larissarabelo.com)
 
 - 🎓 Cursando 3º semestre de Análise e Desenvolvimento de Sistemas
 - 📚 Linguagem: javascript e typescript: front to back
 - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
 - ❤️ Cinema, leitura, viagens, animais
-<!-- - 👉 [Currículo](https://laripeanuts.github.io/raroacademy-curriculo/) 13/03/2022 -->
+- 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/curriculo-larissa-rabelo.pdf)
 
 ### Tech Stack
 
@@ -60,18 +58,20 @@
 
 ### Status
 
-<p align="center">
-<a href="https://github.com/laripeanuts">
-  <img height="200em" src="https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&theme=dark"/>
-  <img height="200em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=laripeanuts&show_icons=true&theme=dark"/>
-</a>
+<p align="left">
+  <a href="https://github.com/laripeanuts">
+    <img height="300em" src="https://api.githubtrends.io/user/svg/laripeanuts/langs?time_range=one_year&theme=dark"/>
+    <!-- <img height="200em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=laripeanuts&show_icons=true&theme=dark"/> -->
+  </a>
 </p>
 
 ### Contato
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/larissarabelolf/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a target="_blank" href="mailto:larissarabelolf@gmail.com" alt="E-mail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="mailto:larissarabelolf@gmail.com" alt="E-mail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.twitter.com/laripeanuts" alt="E-mail">
+    <img src="https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </p>
