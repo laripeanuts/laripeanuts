@@ -29,8 +29,8 @@
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-<!-- [![Storybook](https://img.shields.io/badge/Storybook-F84682?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/get-started/install) -->
-<!-- [![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/) -->
+[![Storybook](https://img.shields.io/badge/Storybook-F84682?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/get-started/install)
+[![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
 
 ### Tech Support Backend
 
@@ -61,7 +61,7 @@
 
 <div align="center" >  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Larissa Rabelo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laripeanuts&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=6&hide=javascript" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laripeanuts&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=6" />
 </div>
 
 ### Contato
