@@ -4,7 +4,7 @@
 ### Desenvolvedora - [Portfolio](https://www.larissarabelo.com)
 
 - 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/curriculo-larissa-rabelo.pdf)
-- 🎓 Cursando 3º semestre de Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
 - 🧾 Olha minha trajetória nos estudos no meu [roadmap](https://github.com/laripeanuts/roadmap)
 - 📚 Linguagem: javascript e typescript: front to back
 - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
