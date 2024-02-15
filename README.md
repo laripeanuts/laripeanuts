@@ -6,7 +6,7 @@
 - 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/curriculo-larissa-rabelo.pdf)
 - 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
 - 🧾 Olha minha trajetória nos estudos no meu [roadmap](https://github.com/laripeanuts/roadmap)
-- 📚 Linguagem: javascript e typescript: front to back
+- 📚 Busco o desenvolvimento como devesenvolvedora Fullstack
 - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
 - ❤️ Cinema, leitura, viagens, animais
 
@@ -17,7 +17,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://https://reactjs.org/)
-[![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nextjs.org/)
 [![ROR](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 
@@ -42,6 +41,11 @@
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://prisma.pub/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+### Tech Mobile
+
+[![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![FLUTTER](https://img.shields.io/badge/Flutter-3EB9F6?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 ### Tools
 
