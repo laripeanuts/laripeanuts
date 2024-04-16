@@ -1,40 +1,29 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-
   <!-- # Larissa Rabelo 👋👩‍💻 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-  <a href="https://www.larissarabelo.com" target="_blank">
-    👀 https://www.larissarabelo.com
-  </a>
-  <a href="https://github.com/laripeanuts/roadmap" target="_blank">
-    🗺️ roadmap
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-</div>
-<div align="center" >
-  <div width="40">
+[👀 www.larissarabelo.com](https://www.larissarabelo.com)
+[🗺️ roadmap]([https://www.larissarabelo.com)
 
-    // locale-pt-br
+```bash
+// locale-pt-br
+```
 
-    - 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Curriculo-2024.pdf)
-    - 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
-    - 📚 Busco me tornar uma devesenvolvedora Fullstack
-    - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
-    - ❤️ Cinema, leitura, viagens, animais
+- 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Curriculo-2024.pdf)
+- 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
+- 📚 Busco me tornar uma devesenvolvedora Fullstack
+- 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
+- ❤️ Cinema, leitura, viagens, animais
 
-  </div>
-  <div width="40%">
+```bash
+// locale-en
+```
 
-    // locale-en
-
-    - 👉 [Resume](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Resume-2024.pdf)
-    - 🎓 Studying 4th semester of Systems Analysis and Development
-    - 📚 Looking to become a fullstack developer
-    - 🎯 Develop applications independently, covering all its stages
-    - ❤️ Movies, reading, travel, animals
-
-  </div>
-</div>
+- 👉 [Resume](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Resume-2024.pdf)
+- 🎓 Studying 4th semester of Systems Analysis and Development
+- 📚 Looking to become a fullstack developer
+- 🎯 Develop applications independently, covering all its stages
+- ❤️ Movies, reading, travel, animals
 
 ### Tech Stack
 
