@@ -1,14 +1,40 @@
-<!-- # Larissa Rabelo 👋 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
-### Desenvolvedora - [www.larissarabelo.com](https://www.larissarabelo.com)
+  <!-- # Larissa Rabelo 👋👩‍💻 -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/curriculo-larissa-rabelo.pdf)
-- 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
-- 🧾 Olha minha trajetória nos estudos no meu [roadmap](https://github.com/laripeanuts/roadmap)
-- 📚 Busco me tornar uma devesenvolvedora Fullstack
-- 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
-- ❤️ Cinema, leitura, viagens, animais
+  <a href="https://www.larissarabelo.com" target="_blank">
+    👀 https://www.larissarabelo.com
+  </a>
+  <a href="https://github.com/laripeanuts/roadmap" target="_blank">
+    🗺️ roadmap
+  </a>
+
+</div>
+<div align="center" >
+  <div width="40">
+
+    // locale-pt-br
+
+    - 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Curriculo-2024.pdf)
+    - 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
+    - 📚 Busco me tornar uma devesenvolvedora Fullstack
+    - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
+    - ❤️ Cinema, leitura, viagens, animais
+
+  </div>
+  <div width="40%">
+
+    // locale-en
+
+    - 👉 [Resume](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Resume-2024.pdf)
+    - 🎓 Studying 4th semester of Systems Analysis and Development
+    - 📚 Looking to become a fullstack developer
+    - 🎯 Develop applications independently, covering all its stages
+    - ❤️ Movies, reading, travel, animals
+
+  </div>
+</div>
 
 ### Tech Stack
 
@@ -61,7 +87,7 @@
 ### Status
 
 <div align="center" >  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Larissa Rabelo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laripeanuts&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Larissa Rabelo github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laripeanuts&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=6" />
 </div>
 
