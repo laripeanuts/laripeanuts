@@ -1,7 +1,7 @@
 <!-- # Larissa Rabelo 👋 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### Desenvolvedora - [Portfolio](https://www.larissarabelo.com)
+### Desenvolvedora - [www.larissarabelo.com](https://www.larissarabelo.com)
 
 - 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/curriculo-larissa-rabelo.pdf)
 - 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
