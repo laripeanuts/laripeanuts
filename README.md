@@ -5,9 +5,7 @@
 [👀 www.larissarabelo.com](https://www.larissarabelo.com)
 [🗺️ roadmap]([https://www.larissarabelo.com)
 
-```bash
-// locale-pt-br
-```
+##### locale-pt-br
 
 - 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Curriculo-2024.pdf)
 - 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
@@ -15,9 +13,7 @@
 - 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
 - ❤️ Cinema, leitura, viagens, animais
 
-```bash
-// locale-en
-```
+##### locale-en
 
 - 👉 [Resume](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Resume-2024.pdf)
 - 🎓 Studying 4th semester of Systems Analysis and Development
