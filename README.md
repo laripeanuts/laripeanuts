@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Larissa+Rabelo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### [👀 www.larissarabelo.com](https://www.larissarabelo.com) - [🗺️ roadmap]([https://www.larissarabelo.com)
+### [👀 www.larissarabelo.com](https://www.larissarabelo.com) - [🗺️ roadmap](https://github.com/laripeanuts/roadmap) 
 
 ##### locale-pt-br
 
