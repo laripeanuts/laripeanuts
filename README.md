@@ -6,16 +6,16 @@
 
 - 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Curriculo-2024.pdf)
 - 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
-- 📚 Busco me tornar uma devesenvolvedora Fullstack
-- 🎯 Desenvolver de forma independente aplicações, abrangendo todas as suas etapas
+- 📚 Busco me tornar uma desenvolvedora melhor a cada dia no universo do JavaScript
+- 🎯 Desenvolver hardskills e softskills para construir aplicações de excelência
 - ❤️ Cinema, leitura, viagens, animais
 
 ##### locale-en
 
 - 👉 [Resume](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Resume-2024.pdf)
 - 🎓 Studying 4th semester of Systems Analysis and Development
-- 📚 Looking to become a fullstack developer
-- 🎯 Develop applications independently, covering all its stages
+- 📚 I seek to become a better developer every day in the JavaScript universe
+- 🎯 Develop hardskills and softskills to build great apps
 - ❤️ Movies, reading, travel, animals
 
 ### Tech Stack
