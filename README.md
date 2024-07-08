@@ -8,7 +8,7 @@
 - 🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
 - 📚 Busco me tornar uma desenvolvedora melhor a cada dia no universo do JavaScript
 - 🎯 Desenvolver hardskills e softskills para construir aplicações de excelência
-- ❤️ Cinema, leitura, viagens, animais
+- ❤️ Cinema, jogos, leitura, viagens, animais
 
 ##### locale-en
 
@@ -16,7 +16,7 @@
 - 🎓 Studying 4th semester of Systems Analysis and Development
 - 📚 I seek to become a better developer every day in the JavaScript universe
 - 🎯 Develop hardskills and softskills to build great apps
-- ❤️ Movies, reading, travel, animals
+- ❤️ Movies, gaming, reading, travel, animals
 
 ### Tech Stack
 
