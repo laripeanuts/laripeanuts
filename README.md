@@ -4,17 +4,15 @@
 
 ##### locale-pt-br
 
-- 👉 [Currículo](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Curriculo-2024.pdf)
-- 🎓 Cursando 5º semestre de Análise e Desenvolvimento de Sistemas
-- 📚 Busco me tornar uma desenvolvedora melhor a cada dia no universo do JavaScript
+- 🎓 Cursando o último semestre de Análise e Desenvolvimento de Sistemas
+- 📚 Busco me tornar uma desenvolvedora melhor a cada dia no universo da programação
 - 🎯 Desenvolver hardskills e softskills para construir aplicações de excelência
 - ❤️ Cinema, jogos, leitura, viagens, animais
 
 ##### locale-en
 
-- 👉 [Resume](https://github.com/laripeanuts/laripeanuts/blob/master/docs/Larissa-Rabelo-Resume-2024.pdf)
-- 🎓 Studying 4th semester of Systems Analysis and Development
-- 📚 I seek to become a better developer every day in the JavaScript universe
+- 🎓 Studying the last semester of Systems Analysis and Development
+- 📚 I seek to become a better developer every day in the development universe
 - 🎯 Develop hardskills and softskills to build great apps
 - ❤️ Movies, gaming, reading, travel, animals
 
