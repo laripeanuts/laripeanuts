@@ -4,14 +4,14 @@
 
 ##### locale-pt-br
 
-- 🎓 Cursando o último semestre de Análise e Desenvolvimento de Sistemas
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas | 2025
 - 📚 Busco me tornar uma desenvolvedora melhor a cada dia no universo da programação
 - 🎯 Desenvolver hardskills e softskills para construir aplicações de excelência
 - ❤️ Cinema, jogos, leitura, viagens, animais
 
 ##### locale-en
 
-- 🎓 Studying the last semester of Systems Analysis and Development
+- 🎓 Gradueted in Systems Analysis and Development | 2025
 - 📚 I seek to become a better developer every day in the development universe
 - 🎯 Develop hardskills and softskills to build great apps
 - ❤️ Movies, gaming, reading, travel, animals
